@@ -1,0 +1,25 @@
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.venv-wsl/
+
+# Local datasets and large raw archives
+data/
+*.rar
+*.zip
+
+# Local model artifacts
+saved_model.keras
+scaler.pkl
+training_meta.json
+threshold_profiles.json
+*.keras
+*.h5
+*.pkl
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
