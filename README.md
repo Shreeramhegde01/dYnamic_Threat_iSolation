@@ -58,9 +58,4 @@ Ignored local-only assets:
 
 If you train locally, artifacts stay on your machine and are not pushed.
 
-## Team
 
-1. Rakshith H R - 1BM23IS191
-2. Shreeram Prakash Hegde - 1BM23IS232
-3. Shreevatsa G Uppalli - 1BM23IS234
-4. Sharan Malali - 1BM23IS223
